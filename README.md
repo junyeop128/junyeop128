@@ -1,16 +1,19 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving\&color=0:0F172A,50:1E3A8A,100:2563EB\&height=230\&section=header\&text=Junyeop%20Lee\&fontSize=48\&fontColor=FFFFFF\&animation=fadeIn\&fontAlignY=38\&desc=Finance%20AI%20%7C%20Multi-Agent%20System%20%7C%20Deeptech%20Valuation\&descAlignY=58\&descSize=18)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:2563EB&height=260&section=header&text=Junyeop%20Lee&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Finance%20AI%20%7C%20Multi-Agent%20Systems%20%7C%20Deeptech%20Valuation&descAlignY=58&descSize=18)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=23\&duration=2500\&pause=900\&color=60A5FA\&center=true\&vCenter=true\&width=900\&lines=Finance+AI+%26+Data+Intake;Multi-Agent+Investment+Decision+System;Deeptech+Valuation+Framework;JB+Future+Deal+Screening+AI)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=2600&pause=900&color=60A5FA&center=true&vCenter=true&width=950&lines=Building+AI+for+Investment%2C+Credit%2C+and+Deal+Screening;Finance+AI+%7C+Deeptech+Valuation+%7C+Multi-Agent+Systems;Designing+Data+Intake+and+Evidence-Based+Decision+Pipelines)](https://git.io/typing-svg)
+
+<br/>
+
+### Hi, I'm Junyeop Lee
+### I design AI-driven workflows for valuation, investment decision support, and credit screening.
 
 <br/>
 
-### 금융 데이터와 AI Agent를 활용해
-
-### 기업 가치평가·투자·여신 심사 자동화를 연구합니다.
-
-<br/>
+![GitHub followers](https://img.shields.io/github/followers/junyeop128?style=for-the-badge&logo=github&color=0F172A)
+![GitHub User's stars](https://img.shields.io/github/stars/junyeop128?style=for-the-badge&logo=github&color=1E3A8A)
+![Profile Views](https://komarev.com/ghpvc/?username=junyeop128&style=for-the-badge&color=2563EB)
 
 </div>
 
@@ -18,34 +21,75 @@
 
 <div align="center">
 
-## 🚀 Main Focus
+## 🚀 About Me
+
+</div>
+
+I am interested in **Finance AI**, **Deeptech Valuation**, and **Multi-Agent Systems**.  
+My current work focuses on connecting financial data, market signals, technical evidence, and structured AI workflows to support **investment**, **valuation**, and **deal screening** decisions.
+
+---
+
+<div align="center">
+
+## 🧩 What I Do
+
+</div>
+
+- **Finance AI system design**
+- **Multi-agent decision support workflows**
+- **Deeptech company valuation**
+- **Data intake and evidence pipelines**
+- **Credit / investment / deal screening automation**
+- **Dashboard and report-oriented AI outputs**
+
+---
+
+<div align="center">
+
+## 📌 Featured Projects
 
 </div>
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🧠 Multi-Agent System
+### AlphaProve
+A multi-agent AI framework for deeptech listed-company analysis, integrating finance, market, tech, issue, macro, chair, and auditor perspectives.
 
-* Finance Agent
-* Market Agent
-* Tech Agent
-* Issue Agent
-* Macro Agent
-* Chair Agent
-* Auditor Agent
+**Keywords:**  
+Finance AI · Multi-Agent · Valuation · Auditor · Chair
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 💸 Finance AI
+### DMA Valuation Evaluation
+A valuation and evaluation project that connects DMA-based signals, market data, and performance interpretation for investment decision support.
 
-* Deeptech Valuation
-* Data Intake Automation
-* Credit & Investment Screening
-* DMA-based Evaluation
-* Evidence-based Decision Support
+**Keywords:**  
+DMA · Valuation · Backtesting · Performance Evaluation
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### JB Future Deal Screening AI
+An AI-supported screening structure for credit review, investment review, facility finance, and portfolio-level decision support.
+
+**Keywords:**  
+Deal Screening · Credit Review · Financial AI · Risk Review
+
+</td>
+<td width="50%" valign="top">
+
+### Data Intake Agent
+A structured data intake pipeline that gathers disclosures, financial statements, market data, and policy/rule-based evidence for AI agents.
+
+**Keywords:**  
+OpenDART · Market Data · Policy Rules · Data Pipeline
 
 </td>
 </tr>
@@ -59,19 +103,19 @@
 
 <br/>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge\&logo=streamlit\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
 ![LangGraph](https://img.shields.io/badge/LangGraph-111827?style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
+
 ![OpenDART](https://img.shields.io/badge/OpenDART-2563EB?style=for-the-badge)
-![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge\&logo=googlesheets\&logoColor=white)
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge\&logo=powershell\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
 
@@ -79,111 +123,42 @@
 
 <div align="center">
 
-## 📌 Featured Projects
+## 🗺 2026 Roadmap
 
 </div>
 
-<table>
-<tr>
-<td width="50%">
+### Current Plans
 
-### AlphaProve
+- **Personal preparation for the ADP practical examination**
+- **Machine Learning-Based Quantum Computing Program**  
+  *(Jun 22, 2026 – Aug 18, 2026)*
+- **Intellectual Property Startup Competition**
 
-딥테크 상장기업을 대상으로 재무, 시장, 기술, 이슈, 거시경제 데이터를 통합하는
-**멀티에이전트 기반 가치평가 프레임워크**
+### Broader Direction
 
-</td>
-<td width="50%">
-
-### DMA Valuation Evaluation
-
-DMA 기반 신호와 기업 데이터를 활용해
-투자 판단과 성과 평가를 연결하는 프로젝트
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### JB Future Deal Screening AI
-
-JB금융그룹 관점에서 기업여신, 투자, 설비금융, 포트폴리오 검토를 지원하는
-**금융권 심사 지원 AI 구조**
-
-</td>
-<td width="50%">
-
-### Data Intake Agent
-
-공시, 재무제표, 시장 데이터, 정책·법령 근거를 수집하고
-에이전트 분석에 연결하는 데이터 파이프라인
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<div align="center">
-
-## 🧾 Repository Cards
-
-<br/>
-
-<table>
-<tr>
-<td width="50%">
-
-<a href="https://github.com/junyeop128/DMA-Valuation-evaluation">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=junyeop128&repo=DMA-Valuation-evaluation&theme=tokyonight&hide_border=true" />
-</a>
-
-</td>
-<td width="50%">
-
-<a href="https://github.com/junyeop128/R_workspaces">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=junyeop128&repo=R_workspaces&theme=tokyonight&hide_border=true" />
-</a>
-
-</td>
-</tr>
-</table>
-
-</div>
+- Strengthen practical skills in **data analysis and machine learning**
+- Expand from **financial AI workflows** into **advanced technical domains**
+- Build a stronger portfolio across **valuation, AI systems, and problem-solving projects**
+- Continue developing explainable and structured AI workflows for **decision support**
 
 ---
 
 <div align="center">
 
-## 🏆 GitHub Trophy
-
-<br/>
-
-![trophy](https://github-profile-trophy.vercel.app/?username=junyeop128\&theme=tokyonight\&no-frame=true\&no-bg=true\&margin-w=12\&margin-h=12\&column=4)
-
-</div>
-
----
-
-<div align="center">
-
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <br/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=junyeop128&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junyeop128&layout=compact&theme=tokyonight&hide_border=true" />
 
-<br/>
-<br/>
+<br/><br/>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=junyeop128\&theme=tokyonight\&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=junyeop128&theme=tokyonight&hide_border=true)
 
-<br/>
-<br/>
+<br/><br/>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=junyeop128\&theme=tokyo-night\&hide_border=true\&bg_color=0D1117\&color=60A5FA\&line=2563EB\&point=FFFFFF)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=junyeop128&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=60A5FA&line=2563EB&point=FFFFFF)
 
 </div>
 
@@ -209,14 +184,16 @@ JB금융그룹 관점에서 기업여신, 투자, 설비금융, 포트폴리오 
 
 ## 📫 Contact
 
-<br/>
+**GitHub**  
+[@junyeop128](https://github.com/junyeop128)
 
-![GitHub](https://img.shields.io/badge/GitHub-junyeop128-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![Focus](https://img.shields.io/badge/Focus-Finance%20AI%20%7C%20Deeptech%20Valuation-2563EB?style=for-the-badge)
+**Interests**  
+Finance AI · Deeptech Valuation · Multi-Agent Systems · Credit / Investment Screening
 
-<br/>
-<br/>
+</div>
 
-![footer](https://capsule-render.vercel.app/api?type=waving\&color=0:2563EB,50:1E3A8A,100:0F172A\&height=120\&section=footer)
+<div align="center">
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:1E3A8A,100:0F172A&height=120&section=footer)
 
 </div>
