@@ -1,9 +1,8 @@
-````md
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:2563EB&height=220&section=header&text=Junyeop%20Lee&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Finance%20AI%20%7C%20Multi-Agent%20System%20%7C%20Deeptech%20Valuation&descAlignY=58&descSize=18)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:2563EB&height=230&section=header&text=Junyeop%20Lee&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Finance%20AI%20%7C%20Multi-Agent%20System%20%7C%20Deeptech%20Valuation&descAlignY=58&descSize=18)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=900&color=60A5FA&center=true&vCenter=true&width=900&lines=Finance+AI+%26+Data+Intake;Multi-Agent+Investment+Decision+System;Deeptech+Valuation+Framework;JB+Future+Deal+Screening+AI)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=2500&pause=900&color=60A5FA&center=true&vCenter=true&width=900&lines=Finance+AI+%26+Data+Intake;Multi-Agent+Investment+Decision+System;Deeptech+Valuation+Framework;JB+Future+Deal+Screening+AI)](https://git.io/typing-svg)
 
 <br/>
 
@@ -27,6 +26,7 @@
 <td width="50%">
 
 ### 🧠 Multi-Agent System
+
 - Finance Agent
 - Market Agent
 - Tech Agent
@@ -39,6 +39,7 @@
 <td width="50%">
 
 ### 💸 Finance AI
+
 - Deeptech Valuation
 - Data Intake Automation
 - Credit & Investment Screening
@@ -86,6 +87,7 @@
 <td width="50%">
 
 ### AlphaProve
+
 딥테크 상장기업을 대상으로 재무, 시장, 기술, 이슈, 거시경제 데이터를 통합하는  
 **멀티에이전트 기반 가치평가 프레임워크**
 
@@ -93,6 +95,7 @@
 <td width="50%">
 
 ### DMA Valuation Evaluation
+
 DMA 기반 신호와 기업 데이터를 활용해  
 투자 판단과 성과 평가를 연결하는 프로젝트
 
@@ -103,6 +106,7 @@ DMA 기반 신호와 기업 데이터를 활용해
 <td width="50%">
 
 ### JB Future Deal Screening AI
+
 JB금융그룹 관점에서 기업여신, 투자, 설비금융, 포트폴리오 검토를 지원하는  
 **금융권 심사 지원 AI 구조**
 
@@ -110,6 +114,7 @@ JB금융그룹 관점에서 기업여신, 투자, 설비금융, 포트폴리오 
 <td width="50%">
 
 ### Data Intake Agent
+
 공시, 재무제표, 시장 데이터, 정책·법령 근거를 수집하고  
 에이전트 분석에 연결하는 데이터 파이프라인
 
@@ -139,43 +144,16 @@ JB금융그룹 관점에서 기업여신, 투자, 설비금융, 포트폴리오 
 
 <div align="center">
 
-## 🧩 Workflow
-
-```mermaid
-flowchart LR
-    A[Data Intake] --> B[Finance Agent]
-    A --> C[Market Agent]
-    A --> D[Tech Agent]
-    A --> E[Issue Agent]
-    A --> F[Macro Agent]
-
-    B --> G[First Auditor]
-    C --> G
-    D --> G
-    E --> G
-    F --> G
-
-    G --> H[Chair Agent]
-    H --> I[Investment / Credit Decision Report]
-````
-
-</div>
-
----
-
-<div align="center">
-
 ## 📫 Contact
 
 <br/>
 
-![GitHub](https://img.shields.io/badge/GitHub-junyeop128-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-junyeop128-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Focus](https://img.shields.io/badge/Focus-Finance%20AI%20%7C%20Deeptech%20Valuation-2563EB?style=for-the-badge)
 
 <br/>
 <br/>
 
-![footer](https://capsule-render.vercel.app/api?type=waving\&color=0:2563EB,50:1E3A8A,100:0F172A\&height=120\&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:1E3A8A,100:0F172A&height=120&section=footer)
 
 </div>
-```
