@@ -362,7 +362,58 @@ Preparing for an **Intellectual Property Startup Competition**, connecting techn
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=junyeop128&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=60A5FA&line=2563EB&point=FFFFFF)
 
+<br/><br/>
+
+### 🔗 Repository Activity Links
+
 </div>
+
+<table>
+<tr>
+<td width="33%" valign="top" align="center">
+
+### [junyeop128](https://github.com/junyeop128/junyeop128)
+
+Profile README repository for organizing my GitHub portfolio, activity visuals, skills, roadmap, and contact information.
+
+<a href="https://github.com/junyeop128/junyeop128">
+  <img src="https://img.shields.io/badge/Open%20Repository-junyeop128-0F172A?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Open junyeop128 repository" />
+</a>
+
+**Focus**  
+GitHub Profile · Portfolio README · Activity Visualization
+
+</td>
+<td width="33%" valign="top" align="center">
+
+### [DMA Valuation Evaluation](https://github.com/junyeop128/DMA-Valuation-evaluation)
+
+A valuation/evaluation repository connecting DMA-based signals, market data, backtesting logic, and investment decision-support interpretation.
+
+<a href="https://github.com/junyeop128/DMA-Valuation-evaluation">
+  <img src="https://img.shields.io/badge/Open%20Repository-DMA%20Valuation-1E3A8A?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Open DMA Valuation Evaluation repository" />
+</a>
+
+**Focus**  
+Python · Valuation · Backtesting · Performance Evaluation
+
+</td>
+<td width="33%" valign="top" align="center">
+
+### [R Workspaces](https://github.com/junyeop128/R_workspaces)
+
+A data-analysis study repository for organizing R/Jupyter-based coursework, statistical analysis practice, and modeling exercises.
+
+<a href="https://github.com/junyeop128/R_workspaces">
+  <img src="https://img.shields.io/badge/Open%20Repository-R%20Workspaces-2563EB?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Open R Workspaces repository" />
+</a>
+
+**Focus**  
+R · Jupyter Notebook · Statistics · Data Analysis
+
+</td>
+</tr>
+</table>
 
 ---
 
