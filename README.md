@@ -1,13 +1,13 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:2563EB&height=260&section=header&text=Junyeop%20Lee&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Finance%20AI%20%7C%20Multi-Agent%20Systems%20%7C%20Deeptech%20Valuation&descAlignY=58&descSize=18)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:2563EB&height=260&section=header&text=Junyeop%20Lee&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Finance%20AI%20%7C%20RAGOps%20%7C%20Multi-Agent%20Systems%20%7C%20Deeptech%20Valuation&descAlignY=58&descSize=18)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2600&pause=900&color=60A5FA&center=true&vCenter=true&width=950&lines=Building+AI+Workflows+for+Finance+and+Valuation;Designing+Multi-Agent+Decision+Support+Systems;Connecting+Data+Intake%2C+Evidence%2C+and+Financial+AI;Exploring+ML%2C+Quantum+Computing%2C+and+IP-Based+Startup+Ideas)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2600&pause=900&color=60A5FA&center=true&vCenter=true&width=950&lines=Building+AI+Workflows+for+Finance+and+Valuation;Designing+RAG+and+RAGOps+Systems;Building+Multi-Agent+Decision+Support+Workflows;Connecting+Data%2C+Evidence%2C+Evaluation%2C+and+Financial+AI)](https://git.io/typing-svg)
 
 <br/>
 
-### Hi, I'm Junyeop Lee  
-### I design AI-driven workflows for valuation, investment decision support, and credit screening.
+### Hi, I'm Junyeop Lee
+### I build AI-driven workflows for finance, valuation, retrieval, and decision support.
 
 <br/>
 
@@ -25,37 +25,51 @@
 
 </div>
 
-I am interested in **Finance AI**, **Deeptech Valuation**, **Multi-Agent Systems**, and **data-driven decision support**.  
-My work focuses on connecting financial statements, market data, technology evidence, policy rules, and AI workflows to support **valuation**, **investment review**, **credit screening**, and **deal screening** decisions.
+I am interested in **Finance AI**, **RAG / RAGOps**, **Deeptech Valuation**, **Multi-Agent Systems**, and **data-driven decision support**.
+
+My work focuses on connecting financial statements, policy and technology documents, market data, structured evidence, and AI workflows to support **valuation**, **investment review**, **credit screening**, **retrieval-based reasoning**, and **decision support**.
 
 <br/>
 
 <table>
 <tr>
-<td width="33%" align="center">
 
-### 💰 Finance AI  
+<td width="25%" align="center">
+
+### 💰 Finance AI
 Valuation  
 Credit Screening  
 Risk Review
 
 </td>
-<td width="33%" align="center">
 
-### 🧠 AI Workflow  
+<td width="25%" align="center">
+
+### 🧠 AI Workflow
 Multi-Agent Systems  
-Data Intake  
-Auditor / Chair Logic
+Decision Pipeline  
+Human-in-the-loop
 
 </td>
-<td width="33%" align="center">
 
-### 📊 Data Analysis  
+<td width="25%" align="center">
+
+### 🔎 RAG / RAGOps
+Evidence Retrieval  
+Evaluation  
+Regression Gates
+
+</td>
+
+<td width="25%" align="center">
+
+### 📊 Data Analysis
 Python · R · SQL  
 Statistics  
 ML Evaluation
 
 </td>
+
 </tr>
 </table>
 
@@ -68,51 +82,94 @@ ML Evaluation
 </div>
 
 <table>
+
 <tr>
+
 <td width="50%" valign="top">
 
-### AlphaProve
+### 🔎 [PolicyRAG Ops](https://github.com/junyeop128/PolicyRAG-Ops)
 
-A multi-agent AI framework for deeptech listed-company analysis, integrating finance, market, tech, issue, macro, chair, and auditor perspectives.
+A production-oriented RAG/RAGOps system for policy and finance documents with evidence retrieval, Golden Dataset evaluation, regression gates, data lineage, and reproducible Docker-based validation.
 
-**Keywords**  
+**Highlights**
+
+- Evidence-aware retrieval
+- Golden Dataset evaluation
+- Retrieval regression gate
+- Evidence readiness / promotion validation
+- PostgreSQL + pgvector
+- NVIDIA hosted embedding / generation
+- Docker & Terraform validation
+- GitHub Actions CI
+
+<a href="https://github.com/junyeop128/PolicyRAG-Ops">
+  <img src="https://img.shields.io/badge/Open%20Repository-PolicyRAG%20Ops-2563EB?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Open PolicyRAG Ops" />
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🧠 AlphaProve
+
+A multi-agent AI framework for deeptech listed-company analysis, integrating finance, market, technology, issue, macro, chair, and auditor perspectives.
+
+**Keywords**
+
 Finance AI · Multi-Agent · Valuation · Auditor · Chair · Deeptech
 
 </td>
-<td width="50%" valign="top">
 
-### DMA Valuation Evaluation
-
-A valuation and evaluation project that connects DMA-based signals, market data, and performance interpretation for investment decision support.
-
-**Keywords**  
-DMA · Valuation · Backtesting · Performance Evaluation · Investment Decision
-
-</td>
 </tr>
 
 <tr>
+
 <td width="50%" valign="top">
 
-### JB Future Deal Screening AI
+### 📈 [DMA Valuation Evaluation](https://github.com/junyeop128/DMA-Valuation-evaluation)
+
+A valuation and evaluation project connecting DMA-based signals, market data, backtesting logic, and investment decision-support interpretation.
+
+**Keywords**
+
+DMA · Valuation · Backtesting · Performance Evaluation · Investment Decision
+
+<a href="https://github.com/junyeop128/DMA-Valuation-evaluation">
+  <img src="https://img.shields.io/badge/Open%20Repository-DMA%20Valuation-1E3A8A?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Open DMA Valuation Evaluation" />
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 💼 JB Future Deal Screening AI
 
 An AI-supported screening structure for credit review, investment review, facility finance, and portfolio-level decision support.
 
-**Keywords**  
+**Keywords**
+
 Deal Screening · Credit Review · Financial AI · Risk Review · Portfolio Review
 
 </td>
-<td width="50%" valign="top">
 
-### Data Intake Agent
+</tr>
 
-A structured data intake pipeline that gathers disclosures, financial statements, market data, and policy/rule-based evidence for AI agents.
+<tr>
 
-**Keywords**  
-OpenDART · Market Data · Policy Rules · Data Pipeline · Evidence
+<td colspan="2" valign="top">
+
+### 📥 Data Intake Agent
+
+A structured data intake pipeline that gathers disclosures, financial statements, market data, and policy/rule-based evidence for downstream AI agents.
+
+**Keywords**
+
+OpenDART · Market Data · Policy Rules · Data Pipeline · Evidence · Structured Intake
 
 </td>
+
 </tr>
+
 </table>
 
 ---
@@ -123,44 +180,49 @@ OpenDART · Market Data · Policy Rules · Data Pipeline · Evidence
 
 <br/>
 
-### Finance AI · Data Analysis · Multi-Agent Systems · Valuation
+### Finance AI · Data Analysis · RAGOps · Multi-Agent Systems · Valuation
 
 </div>
 
 <br/>
 
 <table>
+
 <tr>
+
 <td width="50%" valign="top">
 
 ### 💼 Finance & Valuation
 
-- Financial Statement Analysis  
-- Corporate Analysis  
-- Financial Modeling  
-- IB / VC Investment Review  
-- DCF & Sensitivity Analysis  
-- Peer Group Benchmarking  
-- Risk Analysis  
-- Credit & Valuation Review  
-- Policy Rule-Engine Thinking  
+- Financial Statement Analysis
+- Corporate Analysis
+- Financial Modeling
+- IB / VC Investment Review
+- DCF & Sensitivity Analysis
+- Peer Group Benchmarking
+- Risk Analysis
+- Credit & Valuation Review
+- Policy Rule-Engine Thinking
 
 </td>
+
 <td width="50%" valign="top">
 
 ### 🤖 AI Agent & Decision Pipeline
 
-- Multi-Agent Workflow Design  
-- Data Intake Agent Structure  
-- Evidence-Based Report Generation  
-- JSON Packet Standardization  
-- Auditor / Chair Validation Logic  
-- LLM-based Analysis Workflow  
-- RAG / Vector Search Concepts  
-- Human-in-the-loop Decision Support  
+- Multi-Agent Workflow Design
+- Data Intake Agent Structure
+- Evidence-Based Report Generation
+- JSON Packet Standardization
+- Auditor / Chair Validation Logic
+- LLM-based Analysis Workflow
+- RAG / Vector Search & Evaluation
+- Human-in-the-loop Decision Support
 
 </td>
+
 </tr>
+
 </table>
 
 <br/>
@@ -176,7 +238,7 @@ OpenDART · Market Data · Policy Rules · Data Pipeline · Evidence
 ![SQL](https://img.shields.io/badge/SQL-0F172A?style=for-the-badge&logo=postgresql&logoColor=60A5FA)
 ![Pandas](https://img.shields.io/badge/Pandas-0F172A?style=for-the-badge&logo=pandas&logoColor=8B5CF6)
 ![NumPy](https://img.shields.io/badge/NumPy-0F172A?style=for-the-badge&logo=numpy&logoColor=60A5FA)
-![Scikit--learn](https://img.shields.io/badge/Scikit--learn-0F172A?style=for-the-badge&logo=scikitlearn&logoColor=F59E0B)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0F172A?style=for-the-badge&logo=scikitlearn&logoColor=F59E0B)
 
 </div>
 
@@ -205,6 +267,8 @@ OpenDART · Market Data · Policy Rules · Data Pipeline · Evidence
 
 <br/>
 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0F172A?style=for-the-badge&logo=postgresql&logoColor=60A5FA)
+![pgvector](https://img.shields.io/badge/pgvector-0F172A?style=for-the-badge&logo=postgresql&logoColor=8B5CF6)
 ![MySQL](https://img.shields.io/badge/MySQL-0F172A?style=for-the-badge&logo=mysql&logoColor=60A5FA)
 ![DBeaver](https://img.shields.io/badge/DBeaver-0F172A?style=for-the-badge)
 ![Spark](https://img.shields.io/badge/Spark-0F172A?style=for-the-badge&logo=apachespark&logoColor=F59E0B)
@@ -225,6 +289,39 @@ OpenDART · Market Data · Policy Rules · Data Pipeline · Evidence
 
 <div align="center">
 
+### Backend · RAG Infrastructure · RAGOps
+
+<br/>
+
+![FastAPI](https://img.shields.io/badge/FastAPI-0F172A?style=for-the-badge&logo=fastapi&logoColor=22C55E)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0F172A?style=for-the-badge&logo=postgresql&logoColor=60A5FA)
+![pgvector](https://img.shields.io/badge/pgvector-0F172A?style=for-the-badge&logo=postgresql&logoColor=8B5CF6)
+![OpenSearch](https://img.shields.io/badge/OpenSearch-0F172A?style=for-the-badge&logo=opensearch&logoColor=60A5FA)
+![Docker](https://img.shields.io/badge/Docker-0F172A?style=for-the-badge&logo=docker&logoColor=60A5FA)
+![Terraform](https://img.shields.io/badge/Terraform-0F172A?style=for-the-badge&logo=terraform&logoColor=8B5CF6)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-0F172A?style=for-the-badge&logo=githubactions&logoColor=60A5FA)
+![Prometheus](https://img.shields.io/badge/Prometheus-0F172A?style=for-the-badge&logo=prometheus&logoColor=F97316)
+
+<br/>
+
+![RAGOps](https://img.shields.io/badge/RAGOps-1E293B?style=for-the-badge)
+![Golden Dataset](https://img.shields.io/badge/Golden%20Dataset-1E293B?style=for-the-badge)
+![LLM Evaluation](https://img.shields.io/badge/LLM%20Evaluation-1E293B?style=for-the-badge)
+![Evidence Retrieval](https://img.shields.io/badge/Evidence%20Retrieval-1E293B?style=for-the-badge)
+![Regression Gate](https://img.shields.io/badge/Regression%20Gate-1E293B?style=for-the-badge)
+
+<br/>
+
+<a href="https://github.com/junyeop128/PolicyRAG-Ops">
+  <img src="https://img.shields.io/badge/Validated%20in-PolicyRAG%20Ops-2563EB?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="PolicyRAG Ops" />
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
 ### AI Agents · Automation · Workflow Tools
 
 <br/>
@@ -234,6 +331,8 @@ OpenDART · Market Data · Policy Rules · Data Pipeline · Evidence
 ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-0F172A?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/RAG-0F172A?style=for-the-badge)
 ![Vector DB](https://img.shields.io/badge/Vector%20DB-0F172A?style=for-the-badge)
+![NVIDIA NIM](https://img.shields.io/badge/NVIDIA%20NIM-0F172A?style=for-the-badge&logo=nvidia&logoColor=76B900)
+![Nemotron](https://img.shields.io/badge/Nemotron-0F172A?style=for-the-badge&logo=nvidia&logoColor=76B900)
 ![OpenDART](https://img.shields.io/badge/OpenDART-0F172A?style=for-the-badge)
 
 <br/>
@@ -266,32 +365,38 @@ OpenDART · Market Data · Policy Rules · Data Pipeline · Evidence
 <br/>
 
 <table>
+
 <tr>
+
 <td width="33%" align="center">
 
-### 📊 Data Analysis  
+### 📊 Data Analysis
 Python · R · SQL  
 EDA · Statistics · Modeling  
 Performance Evaluation
 
 </td>
+
 <td width="33%" align="center">
 
-### 💰 Finance  
+### 💰 Finance
 Financial Statements  
 Valuation · DCF · Risk  
 Investment Review
 
 </td>
+
 <td width="33%" align="center">
 
-### 🧠 AI Workflow  
-LangChain · LangGraph  
-RAG · Data Intake  
-Auditor / Chair Logic
+### 🧠 AI Engineering
+RAG · RAGOps  
+Multi-Agent Workflow  
+Evidence & Evaluation
 
 </td>
+
 </tr>
+
 </table>
 
 ---
@@ -303,45 +408,49 @@ Auditor / Chair Logic
 </div>
 
 <table>
+
 <tr>
+
 <td width="33%" valign="top" align="center">
 
-### 01  
-### ADP Practical Exam
+### 01
+### Data & AI Evaluation
 
-Personal preparation for the **ADP practical examination** with a focus on statistical analysis, data preprocessing, modeling, and interpretation.
+Strengthening practical skills in statistical analysis, data preprocessing, model evaluation, and evidence-based interpretation.
 
 </td>
+
 <td width="33%" valign="top" align="center">
 
-### 02  
-### Quantum ML Program
+### 02
+### RAG / AI Systems
 
-**Machine Learning-Based Quantum Computing Program**  
-Jun 22, 2026 – Aug 18, 2026
-
-Exploring quantum computing concepts, machine learning applications, and advanced technical problem-solving.
+Building reproducible retrieval, evaluation, observability, and decision-support workflows beyond prototype-level LLM applications.
 
 </td>
+
 <td width="33%" valign="top" align="center">
 
-### 03  
-### IP Startup Competition
+### 03
+### Finance & Technology Evaluation
 
-Preparing for an **Intellectual Property Startup Competition**, connecting technology analysis, market validation, and commercialization strategy.
+Connecting financial analysis, technology evidence, policy information, and AI systems for valuation and screening use cases.
 
 </td>
+
 </tr>
+
 </table>
 
 <br/>
 
 ### Broader Direction
 
-- Strengthen practical skills in **data analysis and machine learning**
-- Expand from **financial AI workflows** into **advanced technical domains**
-- Build a stronger portfolio across **valuation, AI systems, and problem-solving projects**
-- Continue developing explainable and structured AI workflows for **decision support**
+- Strengthen practical skills in **data analysis, machine learning, and AI evaluation**
+- Expand from single-model analysis into **RAG and multi-agent systems**
+- Build stronger public projects around **finance, valuation, screening, and evidence-based AI**
+- Improve reproducibility through **testing, CI, Docker, evaluation contracts, and monitoring**
+- Continue developing explainable AI workflows for **decision support**
 
 ---
 
@@ -362,57 +471,73 @@ Preparing for an **Intellectual Property Startup Competition**, connecting techn
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=junyeop128&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=60A5FA&line=2563EB&point=FFFFFF)
 
-<br/><br/>
+</div>
 
-### 🔗 Repository Activity Links
+---
+
+<div align="center">
+
+## 🔗 Selected Repositories
 
 </div>
 
 <table>
+
 <tr>
+
 <td width="33%" valign="top" align="center">
 
-### [junyeop128](https://github.com/junyeop128/junyeop128)
+### [PolicyRAG Ops](https://github.com/junyeop128/PolicyRAG-Ops)
 
-Profile README repository for organizing my GitHub portfolio, activity visuals, skills, roadmap, and contact information.
+Production-oriented RAG/RAGOps project for policy and finance documents.
 
-<a href="https://github.com/junyeop128/junyeop128">
-  <img src="https://img.shields.io/badge/Open%20Repository-junyeop128-0F172A?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Open junyeop128 repository" />
+<a href="https://github.com/junyeop128/PolicyRAG-Ops">
+  <img src="https://img.shields.io/badge/Open-PolicyRAG%20Ops-2563EB?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Open PolicyRAG Ops" />
 </a>
 
-**Focus**  
-GitHub Profile · Portfolio README · Activity Visualization
+**Focus**
+
+RAG · RAGOps · pgvector  
+Evaluation · Docker · CI
 
 </td>
+
 <td width="33%" valign="top" align="center">
 
 ### [DMA Valuation Evaluation](https://github.com/junyeop128/DMA-Valuation-evaluation)
 
-A valuation/evaluation repository connecting DMA-based signals, market data, backtesting logic, and investment decision-support interpretation.
+Valuation/evaluation project connecting market signals, backtesting, and investment interpretation.
 
 <a href="https://github.com/junyeop128/DMA-Valuation-evaluation">
-  <img src="https://img.shields.io/badge/Open%20Repository-DMA%20Valuation-1E3A8A?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Open DMA Valuation Evaluation repository" />
+  <img src="https://img.shields.io/badge/Open-DMA%20Valuation-1E3A8A?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Open DMA Valuation Evaluation" />
 </a>
 
-**Focus**  
-Python · Valuation · Backtesting · Performance Evaluation
+**Focus**
+
+Python · Valuation  
+Backtesting · Evaluation
 
 </td>
+
 <td width="33%" valign="top" align="center">
 
 ### [R Workspaces](https://github.com/junyeop128/R_workspaces)
 
-A data-analysis study repository for organizing R/Jupyter-based coursework, statistical analysis practice, and modeling exercises.
+Data-analysis workspace for statistical analysis, modeling, and R/Jupyter-based practice.
 
 <a href="https://github.com/junyeop128/R_workspaces">
-  <img src="https://img.shields.io/badge/Open%20Repository-R%20Workspaces-2563EB?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Open R Workspaces repository" />
+  <img src="https://img.shields.io/badge/Open-R%20Workspaces-2563EB?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Open R Workspaces" />
 </a>
 
-**Focus**  
-R · Jupyter Notebook · Statistics · Data Analysis
+**Focus**
+
+R · Statistics  
+Data Analysis · Modeling
 
 </td>
+
 </tr>
+
 </table>
 
 ---
@@ -444,8 +569,10 @@ R · Jupyter Notebook · Statistics · Data Analysis
 
 <br/>
 
-**Interests**  
-Finance AI · Deeptech Valuation · Multi-Agent Systems · Data Intake · Credit / Investment Screening
+**Current Interests**
+
+Finance AI · RAGOps · Deeptech Valuation · Multi-Agent Systems  
+Evidence Retrieval · Credit / Investment Screening · AI Evaluation
 
 <br/><br/>
 
